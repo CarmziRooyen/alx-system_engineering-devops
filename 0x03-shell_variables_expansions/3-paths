@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATHP |tr ':' '\n' | wc -l
